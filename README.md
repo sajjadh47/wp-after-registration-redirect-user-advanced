@@ -1,12 +1,8 @@
 # After Registration Redirect
 
-**Contributors:** sajjad67 \
-**Tags:** user,user-registration,ajax,wp-registration,wp-custom-registration,redirect,wp-redirect,user-redirect,after-registration-redirect,custom-redirect,filters,redirect-to,wp-user-registration,wp-registration-customize,auto-complete \
-**Requires at least:** 5.6 \
+**Tags:** wp-registration, wp-custom-registration, registration-redirect, custom-redirect, wp-registration-customize \
 **Tested up to:** 6.6 \
-**Stable tag:** 1.0.4 \
-**License:** GPLv2 \
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+**Stable tag:** 2.0.1 \
 
 Redirect user after registration to anywhere.
 
@@ -17,14 +13,11 @@ Send user to custom page after successfull user registration.
 
 ### Features:
 
-- Redirect user after registration
-- User will redirected to specific page according to the filter.
-- Site's all page/posts url auto suggestion in redirect to field.
-- Filter Enable / Disable option
-- Filters Settings ajax save
-
-**Interested in contributing to After Registration Redirect**
-Contact me at sagorh672(at)gmail.com
+- Redirect Users After Registration
+- Automatically Redirect to Specific Pages Based on Defined Filter
+- Auto-Suggest URLs for All Pages and Posts in the "Redirect To" Field
+- Filter Enable / Disable Option
+- Save Filter Settings via AJAX
 
 ## Installation
 
@@ -59,22 +52,22 @@ Just activate After Registration Redirect plugin, and go to plugin page called R
 
 ## Changelog
 
-### 1.0.4
+### 2.0.1
+- Checked for latest wp version 6.8
 
+### 1.0.4
 - Compatibility check for wp v6.6!
 
 ### 1.0.3
-
 - Compatibility check for wp v6.2!
 
 ### 1.0.2
-
 - Compatibility check for wp v6.0!
+
 ### 1.0.1
-
 - Increased filter value to max 99 so that it still works if any other plugin tries to overwrite redirect url via filter
-### 1.0.0
 
+### 1.0.0
 - Initial release.
 
 ## Upgrade Notice
