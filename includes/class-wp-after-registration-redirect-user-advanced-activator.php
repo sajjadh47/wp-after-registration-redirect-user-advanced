@@ -24,6 +24,7 @@ class Wp_After_Registration_Redirect_User_Advanced_Activator {
 	 * or scheduling cron jobs.
 	 *
 	 * @since     2.0.0
+	 * @static
 	 * @access    public
 	 */
 	public static function on_activate() {}
