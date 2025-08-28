@@ -4,7 +4,7 @@
 
 **Tags:** wp-registration, wp-custom-registration, registration-redirect, custom-redirect, wp-registration-customize \
 **Tested up to:** 6.6 \
-**Stable tag:** 2.0.1 \
+**Stable tag:** 2.0.2 \
 
 Redirect user after registration to anywhere.
 
@@ -53,6 +53,9 @@ Just activate After Registration Redirect plugin, and go to plugin page called R
 
 
 ## Changelog
+
+### 2.0.2
+- Minor fix
 
 ### 2.0.1
 - Checked for latest wp version 6.8
