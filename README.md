@@ -3,8 +3,8 @@
 [![Plugin Banner](https://ps.w.org/wp-after-registration-redirect-user-advanced/assets/banner-772x250.png)](https://wordpress.org/plugins/wp-after-registration-redirect-user-advanced/)
 
 **Tags:** wp-registration, wp-custom-registration, registration-redirect, custom-redirect, wp-registration-customize \
-**Tested up to:** 6.6 \
-**Stable tag:** 2.0.2 \
+**Tested up to:** 6.8 \
+**Requires PHP:** 8.0
 
 Redirect user after registration to anywhere.
 
