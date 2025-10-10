@@ -72,7 +72,6 @@ class Wp_After_Registration_Redirect_User_Advanced {
 	 * Include the following files that make up the plugin:
 	 *
 	 * - Wp_After_Registration_Redirect_User_Advanced_Loader. Orchestrates the hooks of the plugin.
-	 * - Sajjad_Dev_Settings_API.                             Provides an interface for interacting with the WordPress Options API.
 	 * - Wp_After_Registration_Redirect_User_Advanced_Admin.  Defines all hooks for the admin area.
 	 * - Wp_After_Registration_Redirect_User_Advanced_Public. Defines all hooks for the public side of the site.
 	 *
