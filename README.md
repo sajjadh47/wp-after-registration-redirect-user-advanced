@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/wp-after-registration-redirect-user-advanced/assets/banner-772x250.png)](https://wordpress.org/plugins/wp-after-registration-redirect-user-advanced/)
 
 **Tags:** wp-registration, wp-custom-registration, registration-redirect, custom-redirect, wp-registration-customize \
-**Tested up to:** 6.8 \
+**Tested up to:** 6.9 \
 **Requires PHP:** 8.0
 
 Redirect user after registration to anywhere.
@@ -53,6 +53,9 @@ Just activate After Registration Redirect plugin, and go to plugin page called R
 
 
 ## Changelog
+
+### 2.0.3
+- Checked for latest wp version 6.9
 
 ### 2.0.2
 - Minor fix

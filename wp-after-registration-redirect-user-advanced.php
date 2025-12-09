@@ -13,7 +13,7 @@
  * Plugin Name:       After Registration Redirect
  * Plugin URI:        https://wordpress.org/plugins/wp-after-registration-redirect-user-advanced/
  * Description:       Redirect User After Registration To Any Page You Select.
- * Version:           2.0.2
+ * Version:           2.0.3
  * Requires at least: 5.6
  * Requires PHP:      8.0
  * Author:            Sajjad Hossain Sagor
@@ -32,7 +32,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Currently plugin version.
  */
-define( 'WP_AFTER_REGISTRATION_REDIRECT_USER_ADVANCED_PLUGIN_VERSION', '2.0.2' );
+define( 'WP_AFTER_REGISTRATION_REDIRECT_USER_ADVANCED_PLUGIN_VERSION', '2.0.3' );
 
 /**
  * Define Plugin Folders Path
