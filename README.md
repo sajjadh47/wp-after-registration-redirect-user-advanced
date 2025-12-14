@@ -1,6 +1,6 @@
 # After Registration Redirect
 
-[![Plugin Banner](https://ps.w.org/wp-after-registration-redirect-user-advanced/assets/banner-772x250.png)](https://wordpress.org/plugins/wp-after-registration-redirect-user-advanced/)
+[![Plugin Banner](https://ps.w.org/wp-after-registration-redirect-user-advanced/assets/banner-1544x500.png)](https://wordpress.org/plugins/wp-after-registration-redirect-user-advanced/)
 
 **Tags:** wp-registration, wp-custom-registration, registration-redirect, custom-redirect, wp-registration-customize \
 **Tested up to:** 6.9 \
