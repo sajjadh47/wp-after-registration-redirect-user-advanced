@@ -2,9 +2,9 @@
 Tags: wp-registration, wp-custom-registration, registration-redirect, custom-redirect, wp-registration-customize
 Contributors: sajjad67
 Author: Sajjad Hossain Sagor
-Tested up to: 7.0
+Tested up to: 7.1
 Requires at least: 5.6
-Stable tag: 2.0.4
+Stable tag: 2.0.5
 Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -46,6 +46,8 @@ Just activate After Registration Redirect plugin, and go to plugin page called R
 1. Registration Redirect Filter Add.
 
 == Changelog ==
+= 2.0.5 =
+- Compatibility checkup for latest wp version 7.1
 = 2.0.4 =
 - Compatibility checkup for latest wp version 7.0
 = 2.0.3 =
